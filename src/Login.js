@@ -10,7 +10,7 @@ export default function Login() {
   return (
     <Container>
         <a className="btn btn-success btn-lg" href={AUTH_URL}>
-            lOGIN WITH SPOTIFY
+            login with spotify
         </a>
     </Container>
   )
